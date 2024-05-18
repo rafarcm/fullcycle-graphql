@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+
+# Outros exemplos comuns:
+*.iml
+*.ipr
+*.iws
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+/build/
+/out/
+
+# Logs
+*.log
+
+# Configurações do IDE
+*.vscode/
